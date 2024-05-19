@@ -1,2 +1,2 @@
-# ML-Algorithms-Notes_jupyter-notebookss
-All Machine Learning algorihm Notes and Practical implementations
+# ML-Algorithms-practical_implementation
+All Machine Learning algorithm Notes and Practical implementations using Python
